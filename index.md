@@ -7,7 +7,7 @@
      <p><b>QQ：1258812243</b></p >
      <p><b>WeChat：1258812243</b></p >
      <p><b>信号与系统</b></p>
-     <p><a href="https://zhangtingting27.github.io/happiness/">张婷婷的主页</a></p>
+     <p><a href="https://github.com/zhangtingting27/happiness">信号与系统实践环节（Python)</a></p>
    </td>
  </tr>
 </table>
